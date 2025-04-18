@@ -1,0 +1,8 @@
+colorDarkestBlue = "#03045e"
+colorDarkerBlue = "#023e8a"
+colorDarkBlue = "#0077b6"
+colorLightBlue = "#0096c7"
+colorLighterBlue = "#48cae4"
+colorLightestBlue = "#caf0f8"
+colroDarkGray = "#222222"
+colorLightWhite = "#F5F5F5"
