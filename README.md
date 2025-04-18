@@ -11,16 +11,16 @@ Features:
 
 Included Files:
 - `attendance_system.exe`: The standalone executable file for Windows.
-- `source_code.py`: The Python source code for the application.
+- `main.py`: The Python source code for the application.
 - `Users.xlsx`: Excel file that stores registered student data.
 - `Log_Data.xlsx`: Excel file that logs attendance data.
 
 How to Use:
-1. Launch the App: Run the `attendance_system.exe` file to open the GUI.
+1. Launch the App: Run the `Attendance_System.exe` file to open the GUI.
 2. Log Attendance: Enter the student ID and click "Log Time" to log attendance.
 3. Register Student: Click "Register Student" to register a new student. The system generates a unique ID for each student.
 
 Installation Instructions:
 1. Download the project files and extract them.
-2. Run the `attendance_system.exe` file to use the application.
-3. Optionally, you can modify the source code (`source_code.py`) as needed.
+2. Run the `Attendance_System.exe` file to use the application.
+3. Optionally, you can modify the source code (`main.py`) as needed.
